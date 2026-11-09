@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Bonnie Xuehua Fu, a PhD researcher in Applied Linguistics at the University of Auckland, New Zealand. I have submitted my doctoral thesis, which investigates generative AI-assisted digital multimodal composing in EFL writing instruction.
-
-My research examines how learners draw on linguistic, multimodal, and technological resources to compose and learn. I am particularly interested in how instructional design supports human–AI collaboration, learning transfer, and second language writing development.
+I am Bonnie Xuehua Fu, a PhD researcher in Applied Linguistics at the University of Auckland, New Zealand. My PhD project investigates generative AI-assisted digital multimodal composing in EFL writing instruction. I am particularly interested in how instructional design supports human–AI collaboration, learning transfer, and second language (multimodal) writing development.
 
 ## Research interests
 
